@@ -10,17 +10,11 @@ Includes:
 
 ## 📸 Screenshots
 
-### Login Screen  
-<img width="364" height="823" alt="image" src="https://github.com/user-attachments/assets/97b42d51-5258-4f42-a558-b743d5d5a65a" />
-
-
-### Signup Screen  
-<img width="371" height="819" alt="image" src="https://github.com/user-attachments/assets/1e64cb6d-6f7b-450e-97eb-59e869e45435" />
-
-
-### Welcome Screen  
-<img width="377" height="818" alt="image" src="https://github.com/user-attachments/assets/8f51a9b6-a3cd-4e51-a3bf-d7134e918a21" />
-
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/0895b2d0-a355-4759-9b6e-b9439b31aa98" width="30%" />
+  <img src="https://github.com/user-attachments/assets/42fc397a-9029-4660-9b6e-34d194622cc3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/2ec5c838-b65f-4d71-9a31-95814b8ff926" width="30%" />
+</p>
 
 ## 🛠️ Tech Stack
 
